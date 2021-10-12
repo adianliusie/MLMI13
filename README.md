@@ -25,4 +25,4 @@ This Coursework is based in python3 and is compatabile with any operating system
 Which are easily available through pip
 
 ## Acknowledgements
-This coursework was based on that of the previous [MLSALT13 course](https://bitbucket.org/mlsalt13/practical/src/master/). The python code closely follows the on the previous framework but has been updated to interface better with python3.
+This coursework was based on that of the previous [MLSALT13 course](https://bitbucket.org/mlsalt13/practical/src/master/). The python code closely follows the previous framework but has been updated to interface better with python3.
