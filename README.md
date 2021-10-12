@@ -1,0 +1,1 @@
+Code for MLSALT13 practical. Please download svmlight and change svmlight_dir in practical.py:15 to point to your local installation.
