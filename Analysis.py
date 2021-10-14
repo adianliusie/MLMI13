@@ -20,12 +20,6 @@ class Evaluation():
         # reset predictions
         self.predictions=[]
         # TODO Q3
-        for num in range(10):
-            train_reviews = [review for i in range(10) for review in corpus.folds[i] if i != num]
-            test_reviews = [review for review in corpus.folds[num]]
-
-            self.train(train_reviews)
-            self.test(test_reviews)
 
     def getStdDeviation(self):
         """
