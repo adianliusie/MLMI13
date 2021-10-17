@@ -21,6 +21,7 @@ This Coursework is based in python3 and is compatabile with any operating system
 - scipy
 - scikit
 - gensim
+- nltk
 
 Which are easily available through pip
 
