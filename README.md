@@ -1,6 +1,6 @@
 # Official MLMI13 Coursework Code
 
-Handout Link: [moodle](https://www.vle.cam.ac.uk/pluginfile.php/22084812/mod_resource/content/16/MLMI13_Practical2021-22.pdf)\
+Handout Link: [link to moodle](https://www.vle.cam.ac.uk/pluginfile.php/26183012/mod_resource/content/17/MLMI13-Practical-2022.pdf)\
 Contact Details: Dr. Kate Knill, Adian Liusie (kmk1001@cam.ac.uk, al826@cam.ac.uk)
 
 ## Overview
